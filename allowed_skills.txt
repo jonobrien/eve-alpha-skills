@@ -1,418 +1,418 @@
-Race	Skill	Level	Group
-Amarr	Armor Layering	1	Armor
-Amarr	EM Armor Compensation	1	Armor
-Amarr	Explosive Armor Compensation	1	Armor
-Amarr	Hull Upgrades	4	Armor
-Amarr	Kinetic Armor Compensation	1	Armor
-Amarr	Mechanics	4	Armor
-Amarr	Remote Armor Repair Systems	3	Armor
-Amarr	Remote Hull Repair Systems	1	Armor
-Amarr	Repair Systems	4	Armor
-Amarr	Thermal Armor Compensation	1	Armor
-Amarr	Corporation Management	1	Corporation Management
-Amarr	Drone Avionics	4	Drones
-Amarr	Drone Durability	4	Drones
-Amarr	Drone Interfacing	3	Drones
-Amarr	Drone Navigation	4	Drones
-Amarr	Drone Sharpshooting	4	Drones
-Amarr	Drones	5	Drones
-Amarr	Light Drone Operation	4	Drones
-Amarr	Medium Drone Operation	3	Drones
-Amarr	Repair Drone Operation	2	Drones
-Amarr	Electronic Warfare	4	Electronic Systems
-Amarr	Propulsion Jamming	3	Electronic Systems
-Amarr	Weapon Disruption	3	Electronic Systems
-Amarr	Advanced Weapon Upgrades	1	Engineering
-Amarr	CPU Management	4	Engineering
-Amarr	Capacitor Emission Systems	3	Engineering
-Amarr	Capacitor Management	4	Engineering
-Amarr	Capacitor Systems Operation	3	Engineering
-Amarr	Electronics Upgrades	4	Engineering
-Amarr	Energy Grid Upgrades	4	Engineering
-Amarr	Energy Pulse Weapons	2	Engineering
-Amarr	Power Grid Management	4	Engineering
-Amarr	Thermodynamics	3	Engineering
-Amarr	Weapon Upgrades	4	Engineering
-Amarr	Controlled Bursts	4	Gunnery
-Amarr	Gunnery	5	Gunnery
-Amarr	Medium Energy Turret	4	Gunnery
-Amarr	Motion Prediction	4	Gunnery
-Amarr	Rapid Firing	4	Gunnery
-Amarr	Sharpshooter	4	Gunnery
-Amarr	Small Energy Turret	4	Gunnery
-Amarr	Surgical Strike	4	Gunnery
-Amarr	Trajectory Analysis	4	Gunnery
-Amarr	Leadership	3	Leadership
-Amarr	Missile Launcher Operation	1	Missiles
-Amarr	Acceleration Control	3	Navigation
-Amarr	Afterburner	3	Navigation
-Amarr	Evasive Maneuvering	3	Navigation
-Amarr	High Speed Maneuvering	3	Navigation
-Amarr	Navigation	4	Navigation
-Amarr	Warp Drive Operation	3	Navigation
-Amarr	Biology	3	Neural Enhancement
-Amarr	Cybernetics	3	Neural Enhancement
-Amarr	Industry	5	Production
-Amarr	Mass Production	3	Production
-Amarr	Mining	4	Resource Processing
-Amarr	Mining Upgrades	4	Resource Processing
-Amarr	Reprocessing	3	Resource Processing
-Amarr	Salvaging	3	Resource Processing
-Amarr	Armor Rigging	2	Rigging
-Amarr	Astronautics Rigging	2	Rigging
-Amarr	Drones Rigging	2	Rigging
-Amarr	Electronic Superiority Rigging	2	Rigging
-Amarr	Energy Weapon Rigging	2	Rigging
-Amarr	Jury Rigging	3	Rigging
-Amarr	Archaeology	3	Scanning
-Amarr	Astrometric Acquisition	2	Scanning
-Amarr	Astrometric Rangefinding	2	Scanning
-Amarr	Astrometrics	3	Scanning
-Amarr	Hacking	3	Scanning
-Amarr	Survey	3	Scanning
-Amarr	Science	4	Science
-Amarr	EM Shield Compensation	1	Shields
-Amarr	Explosive Shield Compensation	1	Shields
-Amarr	Kinetic Shield Compensation	1	Shields
-Amarr	Shield Compensation	3	Shields
-Amarr	Shield Management	3	Shields
-Amarr	Shield Operation	4	Shields
-Amarr	Shield Upgrades	3	Shields
-Amarr	Tactical Shield Manipulation	3	Shields
-Amarr	Thermal Shield Compensation	1	Shields
-Amarr	Connections	2	Social
-Amarr	Criminal Connections	2	Social
-Amarr	Diplomacy	3	Social
-Amarr	Distribution Connections	2	Social
-Amarr	Mining Connections	2	Social
-Amarr	Negotiation	2	Social
-Amarr	Security Connections	2	Social
-Amarr	Social	3	Social
-Amarr	Amarr Cruiser	4	Spaceship Command
-Amarr	Amarr Destroyer	4	Spaceship Command
-Amarr	Amarr Frigate	4	Spaceship Command
-Amarr	Amarr Industrial	1	Spaceship Command
-Amarr	Mining Frigate	4	Spaceship Command
-Amarr	Spaceship Command	3	Spaceship Command
-Amarr	Anchoring	1	Structure Management
-Amarr	Long Range Targeting	3	Targeting
-Amarr	Signature Analysis	3	Targeting
-Amarr	Target Management	4	Targeting
-Amarr	Broker Relations	2	Trade
-Amarr	Marketing	2	Trade
-Amarr	Trade	3	Trade
-Caldari	Armor Layering	1	Armor
-Caldari	EM Armor Compensation	1	Armor
-Caldari	Explosive Armor Compensation	1	Armor
-Caldari	Hull Upgrades	4	Armor
-Caldari	Kinetic Armor Compensation	1	Armor
-Caldari	Mechanics	4	Armor
-Caldari	Remote Hull Repair Systems	1	Armor
-Caldari	Repair Systems	4	Armor
-Caldari	Thermal Armor Compensation	1	Armor
-Caldari	Corporation Management	1	Corporation Management
-Caldari	Drones	3	Drones
-Caldari	Light Drone Operation	1	Drones
-Caldari	Electronic Warfare	4	Electronic Systems
-Caldari	Propulsion Jamming	3	Electronic Systems
-Caldari	Weapon Disruption	3	Electronic Systems
-Caldari	Advanced Weapon Upgrades	1	Engineering
-Caldari	CPU Management	4	Engineering
-Caldari	Capacitor Emission Systems	3	Engineering
-Caldari	Capacitor Management	4	Engineering
-Caldari	Capacitor Systems Operation	3	Engineering
-Caldari	Electronics Upgrades	4	Engineering
-Caldari	Energy Grid Upgrades	4	Engineering
-Caldari	Energy Pulse Weapons	2	Engineering
-Caldari	Power Grid Management	4	Engineering
-Caldari	Thermodynamics	3	Engineering
-Caldari	Weapon Upgrades	4	Engineering
-Caldari	Controlled Bursts	4	Gunnery
-Caldari	Gunnery	5	Gunnery
-Caldari	Medium Hybrid Turret	4	Gunnery
-Caldari	Motion Prediction	4	Gunnery
-Caldari	Rapid Firing	4	Gunnery
-Caldari	Sharpshooter	4	Gunnery
-Caldari	Small Hybrid Turret	4	Gunnery
-Caldari	Surgical Strike	4	Gunnery
-Caldari	Trajectory Analysis	3	Gunnery
-Caldari	Leadership	3	Leadership
-Caldari	Missile Launcher Operation	5	Missiles
-Caldari	Light Missiles	4	Missiles
-Caldari	Heavy Assault Missiles	3	Missiles
-Caldari	Heavy Missiles	4	Missiles
-Caldari	Missile Bombardment	4	Missiles
-Caldari	Missile Projection	2	Missiles
-Caldari	Rapid Launch	4	Missiles
-Caldari	Rockets	4	Missiles
-Caldari	Target Navigation Prediction	3	Missiles
-Caldari	Warhead Upgrades	3	Missiles
-Caldari	Acceleration Control	3	Navigation
-Caldari	Afterburner	3	Navigation
-Caldari	Evasive Maneuvering	3	Navigation
-Caldari	High Speed Maneuvering	3	Navigation
-Caldari	Navigation	4	Navigation
-Caldari	Warp Drive Operation	3	Navigation
-Caldari	Biology	3	Neural Enhancement
-Caldari	Cybernetics	3	Neural Enhancement
-Caldari	Industry	5	Production
-Caldari	Mass Production	3	Production
-Caldari	Mining	4	Resource Processing
-Caldari	Mining Upgrades	4	Resource Processing
-Caldari	Reprocessing	3	Resource Processing
-Caldari	Salvaging	3	Resource Processing
-Caldari	Astronautics Rigging	2	Rigging
-Caldari	Drones Rigging	2	Rigging
-Caldari	Electronic Superiority Rigging	2	Rigging
-Caldari	Hybrid Weapon Rigging	2	Rigging
-Caldari	Jury Rigging	3	Rigging
-Caldari	Shield Rigging	2	Rigging
-Caldari	Launcher Rigging	2	Rigging
-Caldari	Archaeology	3	Scanning
-Caldari	Astrometric Acquisition	2	Scanning
-Caldari	Astrometric Rangefinding	2	Scanning
-Caldari	Astrometrics	3	Scanning
-Caldari	Hacking	3	Scanning
-Caldari	Survey	3	Scanning
-Caldari	Science	4	Science
-Caldari	EM Shield Compensation	1	Shields
-Caldari	Explosive Shield Compensation	1	Shields
-Caldari	Kinetic Shield Compensation	1	Shields
-Caldari	Shield Compensation	3	Shields
-Caldari	Shield Emission Systems	3	Shields
-Caldari	Shield Management	4	Shields
-Caldari	Shield Operation	4	Shields
-Caldari	Shield Upgrades	4	Shields
-Caldari	Tactical Shield Manipulation	3	Shields
-Caldari	Thermal Shield Compensation	1	Shields
-Caldari	Connections	2	Social
-Caldari	Criminal Connections	2	Social
-Caldari	Diplomacy	3	Social
-Caldari	Distribution Connections	2	Social
-Caldari	Mining Connections	2	Social
-Caldari	Negotiation	2	Social
-Caldari	Security Connections	2	Social
-Caldari	Social	3	Social
-Caldari	Caldari Cruiser	4	Spaceship Command
-Caldari	Caldari Destroyer	4	Spaceship Command
-Caldari	Caldari Frigate	4	Spaceship Command
-Caldari	Caldari Industrial	1	Spaceship Command
-Caldari	Mining Frigate	4	Spaceship Command
-Caldari	Spaceship Command	3	Spaceship Command
-Caldari	Anchoring	1	Structure Management
-Caldari	Long Range Targeting	3	Targeting
-Caldari	Signature Analysis	3	Targeting
-Caldari	Target Management	4	Targeting
-Caldari	Broker Relations	2	Trade
-Caldari	Marketing	2	Trade
-Caldari	Trade	3	Trade
-Gallente	Armor Layering	1	Armor
-Gallente	EM Armor Compensation	1	Armor
-Gallente	Explosive Armor Compensation	1	Armor
-Gallente	Hull Upgrades	4	Armor
-Gallente	Kinetic Armor Compensation	1	Armor
-Gallente	Mechanics	4	Armor
-Gallente	Remote Armor Repair Systems	3	Armor
-Gallente	Remote Hull Repair Systems	1	Armor
-Gallente	Repair Systems	4	Armor
-Gallente	Thermal Armor Compensation	1	Armor
-Gallente	Corporation Management	1	Corporation Management
-Gallente	Drone Avionics	4	Drones
-Gallente	Drone Durability	4	Drones
-Gallente	Drone Interfacing	3	Drones
-Gallente	Drone Navigation	4	Drones
-Gallente	Drone Sharpshooting	4	Drones
-Gallente	Drones	5	Drones
-Gallente	Light Drone Operation	4	Drones
-Gallente	Medium Drone Operation	3	Drones
-Gallente	Repair Drone Operation	2	Drones
-Gallente	Electronic Warfare	4	Electronic Systems
-Gallente	Propulsion Jamming	3	Electronic Systems
-Gallente	Weapon Disruption	3	Electronic Systems
-Gallente	Sensor Linking	1	Electronic Systems
-Gallente	Advanced Weapon Upgrades	1	Engineering
-Gallente	CPU Management	4	Engineering
-Gallente	Capacitor Emission Systems	3	Engineering
-Gallente	Capacitor Management	4	Engineering
-Gallente	Capacitor Systems Operation	3	Engineering
-Gallente	Electronics Upgrades	4	Engineering
-Gallente	Energy Grid Upgrades	4	Engineering
-Gallente	Energy Pulse Weapons	2	Engineering
-Gallente	Power Grid Management	4	Engineering
-Gallente	Thermodynamics	3	Engineering
-Gallente	Weapon Upgrades	4	Engineering
-Gallente	Controlled Bursts	4	Gunnery
-Gallente	Gunnery	5	Gunnery
-Gallente	Medium Hybrid Turret	4	Gunnery
-Gallente	Motion Prediction	4	Gunnery
-Gallente	Rapid Firing	4	Gunnery
-Gallente	Sharpshooter	4	Gunnery
-Gallente	Small Hybrid Turret	4	Gunnery
-Gallente	Surgical Strike	4	Gunnery
-Gallente	Trajectory Analysis	4	Gunnery
-Gallente	Leadership	3	Leadership
-Gallente	Missile Launcher Operation	1	Missiles
-Gallente	Acceleration Control	3	Navigation
-Gallente	Afterburner	3	Navigation
-Gallente	Evasive Maneuvering	3	Navigation
-Gallente	High Speed Maneuvering	3	Navigation
-Gallente	Navigation	4	Navigation
-Gallente	Warp Drive Operation	3	Navigation
-Gallente	Biology	3	Neural Enhancement
-Gallente	Cybernetics	3	Neural Enhancement
-Gallente	Industry	5	Production
-Gallente	Mass Production	3	Production
-Gallente	Mining	4	Resource Processing
-Gallente	Mining Upgrades	4	Resource Processing
-Gallente	Reprocessing	3	Resource Processing
-Gallente	Salvaging	3	Resource Processing
-Gallente	Armor Rigging	2	Rigging
-Gallente	Astronautics Rigging	2	Rigging
-Gallente	Drones Rigging	2	Rigging
-Gallente	Electronic Superiority Rigging	2	Rigging
-Gallente	Hybrid Weapon Rigging	2	Rigging
-Gallente	Jury Rigging	3	Rigging
-Gallente	Shield Rigging	2	Rigging
-Gallente	Archaeology	3	Scanning
-Gallente	Astrometric Acquisition	2	Scanning
-Gallente	Astrometric Rangefinding	2	Scanning
-Gallente	Astrometrics	3	Scanning
-Gallente	Hacking	3	Scanning
-Gallente	Survey	3	Scanning
-Gallente	Science	4	Science
-Gallente	EM Shield Compensation	1	Shields
-Gallente	Explosive Shield Compensation	1	Shields
-Gallente	Kinetic Shield Compensation	1	Shields
-Gallente	Shield Compensation	3	Shields
-Gallente	Shield Management	3	Shields
-Gallente	Shield Operation	4	Shields
-Gallente	Shield Upgrades	4	Shields
-Gallente	Tactical Shield Manipulation	3	Shields
-Gallente	Thermal Shield Compensation	1	Shields
-Gallente	Connections	2	Social
-Gallente	Criminal Connections	2	Social
-Gallente	Diplomacy	3	Social
-Gallente	Distribution Connections	2	Social
-Gallente	Mining Connections	2	Social
-Gallente	Negotiation	2	Social
-Gallente	Security Connections	2	Social
-Gallente	Social	3	Social
-Gallente	Gallente Cruiser	4	Spaceship Command
-Gallente	Gallente Destroyer	4	Spaceship Command
-Gallente	Gallente Frigate	4	Spaceship Command
-Gallente	Gallente Industrial	1	Spaceship Command
-Gallente	Mining Frigate	4	Spaceship Command
-Gallente	Spaceship Command	3	Spaceship Command
-Gallente	Anchoring	1	Structure Management
-Gallente	Long Range Targeting	3	Targeting
-Gallente	Signature Analysis	3	Targeting
-Gallente	Target Management	4	Targeting
-Gallente	Broker Relations	2	Trade
-Gallente	Marketing	2	Trade
-Gallente	Trade	3	Trade
-Minmatar	Armor Layering	1	Armor
-Minmatar	EM Armor Compensation	1	Armor
-Minmatar	Explosive Armor Compensation	1	Armor
-Minmatar	Hull Upgrades	4	Armor
-Minmatar	Kinetic Armor Compensation	1	Armor
-Minmatar	Mechanics	4	Armor
-Minmatar	Remote Hull Repair Systems	1	Armor
-Minmatar	Repair Systems	4	Armor
-Minmatar	Thermal Armor Compensation	1	Armor
-Minmatar	Corporation Management	1	Corporation Management
-Minmatar	Drones	3	Drones
-Minmatar	Light Drone Operation	1	Drones
-Minmatar	Electronic Warfare	4	Electronic Systems
-Minmatar	Propulsion Jamming	3	Electronic Systems
-Minmatar	Weapon Disruption	3	Electronic Systems
-Minmatar	Target Painting	1	Electronic Systems
-Minmatar	Advanced Weapon Upgrades	1	Engineering
-Minmatar	CPU Management	4	Engineering
-Minmatar	Capacitor Emission Systems	3	Engineering
-Minmatar	Capacitor Management	4	Engineering
-Minmatar	Capacitor Systems Operation	3	Engineering
-Minmatar	Electronics Upgrades	4	Engineering
-Minmatar	Energy Grid Upgrades	4	Engineering
-Minmatar	Energy Pulse Weapons	2	Engineering
-Minmatar	Power Grid Management	4	Engineering
-Minmatar	Thermodynamics	3	Engineering
-Minmatar	Weapon Upgrades	4	Engineering
-Minmatar	Controlled Bursts	1	Gunnery
-Minmatar	Gunnery	5	Gunnery
-Minmatar	Medium Projectile Turret	4	Gunnery
-Minmatar	Motion Prediction	4	Gunnery
-Minmatar	Rapid Firing	4	Gunnery
-Minmatar	Sharpshooter	4	Gunnery
-Minmatar	Small Projectile Turret	4	Gunnery
-Minmatar	Surgical Strike	4	Gunnery
-Minmatar	Trajectory Analysis	4	Gunnery
-Minmatar	Leadership	3	Leadership
-Minmatar	Missile Launcher Operation	5	Missiles
-Minmatar	Light Missiles	4	Missiles
-Minmatar	Heavy Assault Missiles	3	Missiles
-Minmatar	Heavy Missiles	4	Missiles
-Minmatar	Missile Bombardment	4	Missiles
-Minmatar	Missile Projection	2	Missiles
-Minmatar	Rapid Launch	4	Missiles
-Minmatar	Rockets	4	Missiles
-Minmatar	Target Navigation Prediction	3	Missiles
-Minmatar	Warhead Upgrades	3	Missiles
-Minmatar	Acceleration Control	3	Navigation
-Minmatar	Afterburner	3	Navigation
-Minmatar	Evasive Maneuvering	3	Navigation
-Minmatar	High Speed Maneuvering	3	Navigation
-Minmatar	Navigation	4	Navigation
-Minmatar	Warp Drive Operation	3	Navigation
-Minmatar	Biology	3	Neural Enhancement
-Minmatar	Cybernetics	3	Neural Enhancement
-Minmatar	Industry	5	Production
-Minmatar	Mass Production	3	Production
-Minmatar	Mining	4	Resource Processing
-Minmatar	Mining Upgrades	4	Resource Processing
-Minmatar	Reprocessing	3	Resource Processing
-Minmatar	Salvaging	3	Resource Processing
-Minmatar	Astronautics Rigging	2	Rigging
-Minmatar	Drones Rigging	2	Rigging
-Minmatar	Electronic Superiority Rigging	2	Rigging
-Minmatar	Projectile Weapon Rigging	2	Rigging
-Minmatar	Jury Rigging	3	Rigging
-Minmatar	Shield Rigging	2	Rigging
-Minmatar	Launcher Rigging	2	Rigging
-Minmatar	Archaeology	3	Scanning
-Minmatar	Astrometric Acquisition	2	Scanning
-Minmatar	Astrometric Rangefinding	2	Scanning
-Minmatar	Astrometrics	3	Scanning
-Minmatar	Hacking	3	Scanning
-Minmatar	Survey	3	Scanning
-Minmatar	Science	4	Science
-Minmatar	EM Shield Compensation	1	Shields
-Minmatar	Explosive Shield Compensation	1	Shields
-Minmatar	Kinetic Shield Compensation	1	Shields
-Minmatar	Shield Compensation	3	Shields
-Minmatar	Shield Emission Systems	3	Shields
-Minmatar	Shield Management	4	Shields
-Minmatar	Shield Operation	4	Shields
-Minmatar	Shield Upgrades	4	Shields
-Minmatar	Tactical Shield Manipulation	3	Shields
-Minmatar	Thermal Shield Compensation	1	Shields
-Minmatar	Connections	2	Social
-Minmatar	Criminal Connections	2	Social
-Minmatar	Diplomacy	3	Social
-Minmatar	Distribution Connections	2	Social
-Minmatar	Mining Connections	2	Social
-Minmatar	Negotiation	2	Social
-Minmatar	Security Connections	2	Social
-Minmatar	Social	3	Social
-Minmatar	Minmatar Cruiser	4	Spaceship Command
-Minmatar	Minmatar Destroyer	4	Spaceship Command
-Minmatar	Minmatar Frigate	4	Spaceship Command
-Minmatar	Minmatar Industrial	1	Spaceship Command
-Minmatar	Mining Frigate	4	Spaceship Command
-Minmatar	Spaceship Command	3	Spaceship Command
-Minmatar	Anchoring	1	Structure Management
-Minmatar	Long Range Targeting	3	Targeting
-Minmatar	Signature Analysis	3	Targeting
-Minmatar	Target Management	4	Targeting
-Minmatar	Broker Relations	2	Trade
-Minmatar	Marketing	2	Trade
-Minmatar	Trade	3	Trade
+Race Skill Level Group
+Amarr Armor Layering 1 Armor
+Amarr EM Armor Compensation 1 Armor
+Amarr Explosive Armor Compensation 1 Armor
+Amarr Hull Upgrades 4 Armor
+Amarr Kinetic Armor Compensation 1 Armor
+Amarr Mechanics 4 Armor
+Amarr Remote Armor Repair Systems 3 Armor
+Amarr Remote Hull Repair Systems 1 Armor
+Amarr Repair Systems 4 Armor
+Amarr Thermal Armor Compensation 1 Armor
+Amarr Corporation Management 1 Corporation Management
+Amarr Drone Avionics 4 Drones
+Amarr Drone Durability 4 Drones
+Amarr Drone Interfacing 3 Drones
+Amarr Drone Navigation 4 Drones
+Amarr Drone Sharpshooting 4 Drones
+Amarr Drones 5 Drones
+Amarr Light Drone Operation 4 Drones
+Amarr Medium Drone Operation 3 Drones
+Amarr Repair Drone Operation 2 Drones
+Amarr Electronic Warfare 4 Electronic Systems
+Amarr Propulsion Jamming 3 Electronic Systems
+Amarr Weapon Disruption 3 Electronic Systems
+Amarr Advanced Weapon Upgrades 1 Engineering
+Amarr CPU Management 4 Engineering
+Amarr Capacitor Emission Systems 3 Engineering
+Amarr Capacitor Management 4 Engineering
+Amarr Capacitor Systems Operation 3 Engineering
+Amarr Electronics Upgrades 4 Engineering
+Amarr Energy Grid Upgrades 4 Engineering
+Amarr Energy Pulse Weapons 2 Engineering
+Amarr Power Grid Management 4 Engineering
+Amarr Thermodynamics 3 Engineering
+Amarr Weapon Upgrades 4 Engineering
+Amarr Controlled Bursts 4 Gunnery
+Amarr Gunnery 5 Gunnery
+Amarr Medium Energy Turret 4 Gunnery
+Amarr Motion Prediction 4 Gunnery
+Amarr Rapid Firing 4 Gunnery
+Amarr Sharpshooter 4 Gunnery
+Amarr Small Energy Turret 4 Gunnery
+Amarr Surgical Strike 4 Gunnery
+Amarr Trajectory Analysis 4 Gunnery
+Amarr Leadership 3 Leadership
+Amarr Missile Launcher Operation 1 Missiles
+Amarr Acceleration Control 3 Navigation
+Amarr Afterburner 3 Navigation
+Amarr Evasive Maneuvering 3 Navigation
+Amarr High Speed Maneuvering 3 Navigation
+Amarr Navigation 4 Navigation
+Amarr Warp Drive Operation 3 Navigation
+Amarr Biology 3 Neural Enhancement
+Amarr Cybernetics 3 Neural Enhancement
+Amarr Industry 5 Production
+Amarr Mass Production 3 Production
+Amarr Mining 4 Resource Processing
+Amarr Mining Upgrades 4 Resource Processing
+Amarr Reprocessing 3 Resource Processing
+Amarr Salvaging 3 Resource Processing
+Amarr Armor Rigging 2 Rigging
+Amarr Astronautics Rigging 2 Rigging
+Amarr Drones Rigging 2 Rigging
+Amarr Electronic Superiority Rigging 2 Rigging
+Amarr Energy Weapon Rigging 2 Rigging
+Amarr Jury Rigging 3 Rigging
+Amarr Archaeology 3 Scanning
+Amarr Astrometric Acquisition 2 Scanning
+Amarr Astrometric Rangefinding 2 Scanning
+Amarr Astrometrics 3 Scanning
+Amarr Hacking 3 Scanning
+Amarr Survey 3 Scanning
+Amarr Science 4 Science
+Amarr EM Shield Compensation 1 Shields
+Amarr Explosive Shield Compensation 1 Shields
+Amarr Kinetic Shield Compensation 1 Shields
+Amarr Shield Compensation 3 Shields
+Amarr Shield Management 3 Shields
+Amarr Shield Operation 4 Shields
+Amarr Shield Upgrades 3 Shields
+Amarr Tactical Shield Manipulation 3 Shields
+Amarr Thermal Shield Compensation 1 Shields
+Amarr Connections 2 Social
+Amarr Criminal Connections 2 Social
+Amarr Diplomacy 3 Social
+Amarr Distribution Connections 2 Social
+Amarr Mining Connections 2 Social
+Amarr Negotiation 2 Social
+Amarr Security Connections 2 Social
+Amarr Social 3 Social
+Amarr Amarr Cruiser 4 Spaceship Command
+Amarr Amarr Destroyer 4 Spaceship Command
+Amarr Amarr Frigate 4 Spaceship Command
+Amarr Amarr Industrial 1 Spaceship Command
+Amarr Mining Frigate 4 Spaceship Command
+Amarr Spaceship Command 3 Spaceship Command
+Amarr Anchoring 1 Structure Management
+Amarr Long Range Targeting 3 Targeting
+Amarr Signature Analysis 3 Targeting
+Amarr Target Management 4 Targeting
+Amarr Broker Relations 2 Trade
+Amarr Marketing 2 Trade
+Amarr Trade 3 Trade
+Caldari Armor Layering 1 Armor
+Caldari EM Armor Compensation 1 Armor
+Caldari Explosive Armor Compensation 1 Armor
+Caldari Hull Upgrades 4 Armor
+Caldari Kinetic Armor Compensation 1 Armor
+Caldari Mechanics 4 Armor
+Caldari Remote Hull Repair Systems 1 Armor
+Caldari Repair Systems 4 Armor
+Caldari Thermal Armor Compensation 1 Armor
+Caldari Corporation Management 1 Corporation Management
+Caldari Drones 3 Drones
+Caldari Light Drone Operation 1 Drones
+Caldari Electronic Warfare 4 Electronic Systems
+Caldari Propulsion Jamming 3 Electronic Systems
+Caldari Weapon Disruption 3 Electronic Systems
+Caldari Advanced Weapon Upgrades 1 Engineering
+Caldari CPU Management 4 Engineering
+Caldari Capacitor Emission Systems 3 Engineering
+Caldari Capacitor Management 4 Engineering
+Caldari Capacitor Systems Operation 3 Engineering
+Caldari Electronics Upgrades 4 Engineering
+Caldari Energy Grid Upgrades 4 Engineering
+Caldari Energy Pulse Weapons 2 Engineering
+Caldari Power Grid Management 4 Engineering
+Caldari Thermodynamics 3 Engineering
+Caldari Weapon Upgrades 4 Engineering
+Caldari Controlled Bursts 4 Gunnery
+Caldari Gunnery 5 Gunnery
+Caldari Medium Hybrid Turret 4 Gunnery
+Caldari Motion Prediction 4 Gunnery
+Caldari Rapid Firing 4 Gunnery
+Caldari Sharpshooter 4 Gunnery
+Caldari Small Hybrid Turret 4 Gunnery
+Caldari Surgical Strike 4 Gunnery
+Caldari Trajectory Analysis 3 Gunnery
+Caldari Leadership 3 Leadership
+Caldari Missile Launcher Operation 5 Missiles
+Caldari Light Missiles 4 Missiles
+Caldari Heavy Assault Missiles 3 Missiles
+Caldari Heavy Missiles 4 Missiles
+Caldari Missile Bombardment 4 Missiles
+Caldari Missile Projection 2 Missiles
+Caldari Rapid Launch 4 Missiles
+Caldari Rockets 4 Missiles
+Caldari Target Navigation Prediction 3 Missiles
+Caldari Warhead Upgrades 3 Missiles
+Caldari Acceleration Control 3 Navigation
+Caldari Afterburner 3 Navigation
+Caldari Evasive Maneuvering 3 Navigation
+Caldari High Speed Maneuvering 3 Navigation
+Caldari Navigation 4 Navigation
+Caldari Warp Drive Operation 3 Navigation
+Caldari Biology 3 Neural Enhancement
+Caldari Cybernetics 3 Neural Enhancement
+Caldari Industry 5 Production
+Caldari Mass Production 3 Production
+Caldari Mining 4 Resource Processing
+Caldari Mining Upgrades 4 Resource Processing
+Caldari Reprocessing 3 Resource Processing
+Caldari Salvaging 3 Resource Processing
+Caldari Astronautics Rigging 2 Rigging
+Caldari Drones Rigging 2 Rigging
+Caldari Electronic Superiority Rigging 2 Rigging
+Caldari Hybrid Weapon Rigging 2 Rigging
+Caldari Jury Rigging 3 Rigging
+Caldari Shield Rigging 2 Rigging
+Caldari Launcher Rigging 2 Rigging
+Caldari Archaeology 3 Scanning
+Caldari Astrometric Acquisition 2 Scanning
+Caldari Astrometric Rangefinding 2 Scanning
+Caldari Astrometrics 3 Scanning
+Caldari Hacking 3 Scanning
+Caldari Survey 3 Scanning
+Caldari Science 4 Science
+Caldari EM Shield Compensation 1 Shields
+Caldari Explosive Shield Compensation 1 Shields
+Caldari Kinetic Shield Compensation 1 Shields
+Caldari Shield Compensation 3 Shields
+Caldari Shield Emission Systems 3 Shields
+Caldari Shield Management 4 Shields
+Caldari Shield Operation 4 Shields
+Caldari Shield Upgrades 4 Shields
+Caldari Tactical Shield Manipulation 3 Shields
+Caldari Thermal Shield Compensation 1 Shields
+Caldari Connections 2 Social
+Caldari Criminal Connections 2 Social
+Caldari Diplomacy 3 Social
+Caldari Distribution Connections 2 Social
+Caldari Mining Connections 2 Social
+Caldari Negotiation 2 Social
+Caldari Security Connections 2 Social
+Caldari Social 3 Social
+Caldari Caldari Cruiser 4 Spaceship Command
+Caldari Caldari Destroyer 4 Spaceship Command
+Caldari Caldari Frigate 4 Spaceship Command
+Caldari Caldari Industrial 1 Spaceship Command
+Caldari Mining Frigate 4 Spaceship Command
+Caldari Spaceship Command 3 Spaceship Command
+Caldari Anchoring 1 Structure Management
+Caldari Long Range Targeting 3 Targeting
+Caldari Signature Analysis 3 Targeting
+Caldari Target Management 4 Targeting
+Caldari Broker Relations 2 Trade
+Caldari Marketing 2 Trade
+Caldari Trade 3 Trade
+Gallente Armor Layering 1 Armor
+Gallente EM Armor Compensation 1 Armor
+Gallente Explosive Armor Compensation 1 Armor
+Gallente Hull Upgrades 4 Armor
+Gallente Kinetic Armor Compensation 1 Armor
+Gallente Mechanics 4 Armor
+Gallente Remote Armor Repair Systems 3 Armor
+Gallente Remote Hull Repair Systems 1 Armor
+Gallente Repair Systems 4 Armor
+Gallente Thermal Armor Compensation 1 Armor
+Gallente Corporation Management 1 Corporation Management
+Gallente Drone Avionics 4 Drones
+Gallente Drone Durability 4 Drones
+Gallente Drone Interfacing 3 Drones
+Gallente Drone Navigation 4 Drones
+Gallente Drone Sharpshooting 4 Drones
+Gallente Drones 5 Drones
+Gallente Light Drone Operation 4 Drones
+Gallente Medium Drone Operation 3 Drones
+Gallente Repair Drone Operation 2 Drones
+Gallente Electronic Warfare 4 Electronic Systems
+Gallente Propulsion Jamming 3 Electronic Systems
+Gallente Weapon Disruption 3 Electronic Systems
+Gallente Sensor Linking 1 Electronic Systems
+Gallente Advanced Weapon Upgrades 1 Engineering
+Gallente CPU Management 4 Engineering
+Gallente Capacitor Emission Systems 3 Engineering
+Gallente Capacitor Management 4 Engineering
+Gallente Capacitor Systems Operation 3 Engineering
+Gallente Electronics Upgrades 4 Engineering
+Gallente Energy Grid Upgrades 4 Engineering
+Gallente Energy Pulse Weapons 2 Engineering
+Gallente Power Grid Management 4 Engineering
+Gallente Thermodynamics 3 Engineering
+Gallente Weapon Upgrades 4 Engineering
+Gallente Controlled Bursts 4 Gunnery
+Gallente Gunnery 5 Gunnery
+Gallente Medium Hybrid Turret 4 Gunnery
+Gallente Motion Prediction 4 Gunnery
+Gallente Rapid Firing 4 Gunnery
+Gallente Sharpshooter 4 Gunnery
+Gallente Small Hybrid Turret 4 Gunnery
+Gallente Surgical Strike 4 Gunnery
+Gallente Trajectory Analysis 4 Gunnery
+Gallente Leadership 3 Leadership
+Gallente Missile Launcher Operation 1 Missiles
+Gallente Acceleration Control 3 Navigation
+Gallente Afterburner 3 Navigation
+Gallente Evasive Maneuvering 3 Navigation
+Gallente High Speed Maneuvering 3 Navigation
+Gallente Navigation 4 Navigation
+Gallente Warp Drive Operation 3 Navigation
+Gallente Biology 3 Neural Enhancement
+Gallente Cybernetics 3 Neural Enhancement
+Gallente Industry 5 Production
+Gallente Mass Production 3 Production
+Gallente Mining 4 Resource Processing
+Gallente Mining Upgrades 4 Resource Processing
+Gallente Reprocessing 3 Resource Processing
+Gallente Salvaging 3 Resource Processing
+Gallente Armor Rigging 2 Rigging
+Gallente Astronautics Rigging 2 Rigging
+Gallente Drones Rigging 2 Rigging
+Gallente Electronic Superiority Rigging 2 Rigging
+Gallente Hybrid Weapon Rigging 2 Rigging
+Gallente Jury Rigging 3 Rigging
+Gallente Shield Rigging 2 Rigging
+Gallente Archaeology 3 Scanning
+Gallente Astrometric Acquisition 2 Scanning
+Gallente Astrometric Rangefinding 2 Scanning
+Gallente Astrometrics 3 Scanning
+Gallente Hacking 3 Scanning
+Gallente Survey 3 Scanning
+Gallente Science 4 Science
+Gallente EM Shield Compensation 1 Shields
+Gallente Explosive Shield Compensation 1 Shields
+Gallente Kinetic Shield Compensation 1 Shields
+Gallente Shield Compensation 3 Shields
+Gallente Shield Management 3 Shields
+Gallente Shield Operation 4 Shields
+Gallente Shield Upgrades 4 Shields
+Gallente Tactical Shield Manipulation 3 Shields
+Gallente Thermal Shield Compensation 1 Shields
+Gallente Connections 2 Social
+Gallente Criminal Connections 2 Social
+Gallente Diplomacy 3 Social
+Gallente Distribution Connections 2 Social
+Gallente Mining Connections 2 Social
+Gallente Negotiation 2 Social
+Gallente Security Connections 2 Social
+Gallente Social 3 Social
+Gallente Gallente Cruiser 4 Spaceship Command
+Gallente Gallente Destroyer 4 Spaceship Command
+Gallente Gallente Frigate 4 Spaceship Command
+Gallente Gallente Industrial 1 Spaceship Command
+Gallente Mining Frigate 4 Spaceship Command
+Gallente Spaceship Command 3 Spaceship Command
+Gallente Anchoring 1 Structure Management
+Gallente Long Range Targeting 3 Targeting
+Gallente Signature Analysis 3 Targeting
+Gallente Target Management 4 Targeting
+Gallente Broker Relations 2 Trade
+Gallente Marketing 2 Trade
+Gallente Trade 3 Trade
+Minmatar Armor Layering 1 Armor
+Minmatar EM Armor Compensation 1 Armor
+Minmatar Explosive Armor Compensation 1 Armor
+Minmatar Hull Upgrades 4 Armor
+Minmatar Kinetic Armor Compensation 1 Armor
+Minmatar Mechanics 4 Armor
+Minmatar Remote Hull Repair Systems 1 Armor
+Minmatar Repair Systems 4 Armor
+Minmatar Thermal Armor Compensation 1 Armor
+Minmatar Corporation Management 1 Corporation Management
+Minmatar Drones 3 Drones
+Minmatar Light Drone Operation 1 Drones
+Minmatar Electronic Warfare 4 Electronic Systems
+Minmatar Propulsion Jamming 3 Electronic Systems
+Minmatar Weapon Disruption 3 Electronic Systems
+Minmatar Target Painting 1 Electronic Systems
+Minmatar Advanced Weapon Upgrades 1 Engineering
+Minmatar CPU Management 4 Engineering
+Minmatar Capacitor Emission Systems 3 Engineering
+Minmatar Capacitor Management 4 Engineering
+Minmatar Capacitor Systems Operation 3 Engineering
+Minmatar Electronics Upgrades 4 Engineering
+Minmatar Energy Grid Upgrades 4 Engineering
+Minmatar Energy Pulse Weapons 2 Engineering
+Minmatar Power Grid Management 4 Engineering
+Minmatar Thermodynamics 3 Engineering
+Minmatar Weapon Upgrades 4 Engineering
+Minmatar Controlled Bursts 1 Gunnery
+Minmatar Gunnery 5 Gunnery
+Minmatar Medium Projectile Turret 4 Gunnery
+Minmatar Motion Prediction 4 Gunnery
+Minmatar Rapid Firing 4 Gunnery
+Minmatar Sharpshooter 4 Gunnery
+Minmatar Small Projectile Turret 4 Gunnery
+Minmatar Surgical Strike 4 Gunnery
+Minmatar Trajectory Analysis 4 Gunnery
+Minmatar Leadership 3 Leadership
+Minmatar Missile Launcher Operation 5 Missiles
+Minmatar Light Missiles 4 Missiles
+Minmatar Heavy Assault Missiles 3 Missiles
+Minmatar Heavy Missiles 4 Missiles
+Minmatar Missile Bombardment 4 Missiles
+Minmatar Missile Projection 2 Missiles
+Minmatar Rapid Launch 4 Missiles
+Minmatar Rockets 4 Missiles
+Minmatar Target Navigation Prediction 3 Missiles
+Minmatar Warhead Upgrades 3 Missiles
+Minmatar Acceleration Control 3 Navigation
+Minmatar Afterburner 3 Navigation
+Minmatar Evasive Maneuvering 3 Navigation
+Minmatar High Speed Maneuvering 3 Navigation
+Minmatar Navigation 4 Navigation
+Minmatar Warp Drive Operation 3 Navigation
+Minmatar Biology 3 Neural Enhancement
+Minmatar Cybernetics 3 Neural Enhancement
+Minmatar Industry 5 Production
+Minmatar Mass Production 3 Production
+Minmatar Mining 4 Resource Processing
+Minmatar Mining Upgrades 4 Resource Processing
+Minmatar Reprocessing 3 Resource Processing
+Minmatar Salvaging 3 Resource Processing
+Minmatar Astronautics Rigging 2 Rigging
+Minmatar Drones Rigging 2 Rigging
+Minmatar Electronic Superiority Rigging 2 Rigging
+Minmatar Projectile Weapon Rigging 2 Rigging
+Minmatar Jury Rigging 3 Rigging
+Minmatar Shield Rigging 2 Rigging
+Minmatar Launcher Rigging 2 Rigging
+Minmatar Archaeology 3 Scanning
+Minmatar Astrometric Acquisition 2 Scanning
+Minmatar Astrometric Rangefinding 2 Scanning
+Minmatar Astrometrics 3 Scanning
+Minmatar Hacking 3 Scanning
+Minmatar Survey 3 Scanning
+Minmatar Science 4 Science
+Minmatar EM Shield Compensation 1 Shields
+Minmatar Explosive Shield Compensation 1 Shields
+Minmatar Kinetic Shield Compensation 1 Shields
+Minmatar Shield Compensation 3 Shields
+Minmatar Shield Emission Systems 3 Shields
+Minmatar Shield Management 4 Shields
+Minmatar Shield Operation 4 Shields
+Minmatar Shield Upgrades 4 Shields
+Minmatar Tactical Shield Manipulation 3 Shields
+Minmatar Thermal Shield Compensation 1 Shields
+Minmatar Connections 2 Social
+Minmatar Criminal Connections 2 Social
+Minmatar Diplomacy 3 Social
+Minmatar Distribution Connections 2 Social
+Minmatar Mining Connections 2 Social
+Minmatar Negotiation 2 Social
+Minmatar Security Connections 2 Social
+Minmatar Social 3 Social
+Minmatar Minmatar Cruiser 4 Spaceship Command
+Minmatar Minmatar Destroyer 4 Spaceship Command
+Minmatar Minmatar Frigate 4 Spaceship Command
+Minmatar Minmatar Industrial 1 Spaceship Command
+Minmatar Mining Frigate 4 Spaceship Command
+Minmatar Spaceship Command 3 Spaceship Command
+Minmatar Anchoring 1 Structure Management
+Minmatar Long Range Targeting 3 Targeting
+Minmatar Signature Analysis 3 Targeting
+Minmatar Target Management 4 Targeting
+Minmatar Broker Relations 2 Trade
+Minmatar Marketing 2 Trade
+Minmatar Trade 3 Trade
