@@ -130,11 +130,11 @@ def main(args):
 					trained = sheet.skills.Get(skill.typeID, False)
 					if trained:
 						# we trained the skill, and alpha can train it too
-						print("you: {} - {} alpha: {}".format(
-						    skill.typeName,  trained.level, currSkill))
+						print("{} - you: {} alpha: {} - group: {}".format(
+						    skill.typeName,  trained.level, currSkill, g.groupName))
 					# alpha allows, we haven't trained it yet
 					else:
-						print('alpha allows for: {} - {}'.format(skill.typeName, currSkill))
+						print('* alpha allows for: {} - {}'.format(skill.typeName, currSkill))
 
 	exit()
 
