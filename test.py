@@ -57,6 +57,10 @@ def parseAlpha():
 		for idx in line:
 			if idx in lvls:
 				sNum = line.index(idx)
+		if sNum is None:
+			print('[!!] skill has no level specified:')
+			print('[!!] ' + str(line))
+			exit(-1)
 		# ['Minmatar', 'Negotiation', '2', 'Social']
 		# ['Gallente', 'High', 'Speed', 'Maneuvering', '3', 'Navigation']
 		# ['Amarr', 'Amarr', 'Cruiser', '4', 'Spaceship', 'Command']
@@ -67,12 +71,7 @@ def parseAlpha():
 		# we need to initialize the nested dictionaries
 		if group not in allTheSkills[race]:
 			allTheSkills[race][group] = {}
-		allTheSkills[line[0]][group][skill] = sNum
-	#print(allTheSkills)
-	print(allTheSkills['Gallente']['Missiles'])
-	print(allTheSkills['Minmatar']['Missiles'])
-	print(allTheSkills['Caldari']['Missiles'])
-	print(allTheSkills['Amarr']['Missiles'])
+		allTheSkills[race][group][skill] = sNum
 	return allTheSkills
 
 
@@ -81,15 +80,17 @@ def parseAlpha():
 
 
 def main(args):
-	parseAlpha()
-	exit()
+	alphaSkills = parseAlpha()
 	api = eveapi.EVEAPIConnection()
 	auth = api.auth(keyID=YOUR_KEYID, vCode=YOUR_VCODE)
 	result2 = auth.account.Characters()
-
+	## TODO either dynamically get this or just iterate 
+	### over characters array depending on api masks
+	RACE = 'Caldari' # race of character CHAR_INDEX
+	CHAR_INDEX = 0 # index on character login screen of character you want, needs fixing
 	# -----------------------------------------------------------------------------
 	print()
-	print("EXAMPLE 4: GETTING CHARACTER SHEET INFORMATION")
+	print('GETTING CHARACTER SHEET INFORMATION') ## TODO -- char name...
 	print()
 
 	# We grab ourselves a character context object.
@@ -100,9 +101,7 @@ def main(args):
 	# from the api or auth context, but then you have to provide the missing
 	# keywords on every call (characterID in this case).
 	#
-	# The victim we'll use is the last character on the account we used in
-	# example 1.
-	me = auth.character(result2.characters[-1].characterID)
+	me = auth.character(result2.characters[CHAR_INDEX].characterID)
 
 	# Now that we have a character context, we can display skills trained on
 	# a character. First we have to get the skill tree. A real application
@@ -119,47 +118,25 @@ def main(args):
 	# care of adding the characterID parameter and /char folder attribute.
 	sheet = me.CharacterSheet()
 
-	# This list should look familiar. They're the skillpoints at each level for
-	# a rank 1 skill. We could use the formula, but this is much simpler :)
-	sp = [0, 250, 1414, 8000, 45255, 256000]
-
-	total_sp = 0
-	total_skills = 0
-
 	# Now the fun bit starts. We walk the skill tree, and for every group in the
 	# tree...
 	for g in skilltree.skillGroups:
-
-	    skills_trained_in_this_group = False
-
 	    # ... iterate over the skills in this group...
 	    for skill in g.skills:
+	    	if g.groupName in alphaSkills[RACE]:
+				currGroup = alphaSkills[RACE][g.groupName]
+				if skill.typeName in currGroup:
+					currSkill = alphaSkills[RACE][g.groupName][skill.typeName]
+					trained = sheet.skills.Get(skill.typeID, False)
+					if trained:
+						# we trained the skill, and alpha can train it too
+						print("you: {} - {} alpha: {}".format(
+						    skill.typeName,  trained.level, currSkill))
+					# alpha allows, we haven't trained it yet
+					else:
+						print('alpha allows for: {} - {}'.format(skill.typeName, currSkill))
 
-	        # see if we trained this skill by checking the character sheet object
-	        trained = sheet.skills.Get(skill.typeID, False)
-	        if trained:
-	            # yep, we trained this skill.
-
-	            # print the group name if we haven't done so already
-	            if not skills_trained_in_this_group:
-	                #######print(g.groupName)
-	                skills_trained_in_this_group = True
-
-	            # and display some info about the skill!
-	            print("- {} Rank({}) - SP: {}/{} - Level: {}".format(
-	                skill.typeName, skill.rank, trained.skillpoints,
-	                (skill.rank * sp[trained.level]), trained.level)
-	            )
-	            total_skills += 1
-	            total_sp += trained.skillpoints
-
-
-	# And to top it off, display totals.
-	print("You currently have {} skills and {:,d} skill points".format(
-	    total_skills, total_sp)
-	)
 	exit()
-
 
 if __name__ == '__main__':
 	main(sys.argv)
