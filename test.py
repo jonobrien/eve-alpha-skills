@@ -27,12 +27,62 @@ YOUR_VCODE = os.environ['EVE_API_VCODE']
 
 
 
+"""
+- parse the allowed_skills.txt file of skills allowed
+- for alpha clones defined by each race respectively
+- into a dictionary of races with dictionaries of groups of skills
+- not all races have same skills, so not separated by group
+- instead kept as listed on devblog (in README)
+"""
+def parseAlpha():
+	allTheSkills = {}
+	allTheSkills['Minmatar'] = {}
+	allTheSkills['Gallente'] = {}
+	allTheSkills['Caldari'] = {}
+	allTheSkills['Amarr'] = {}
+
+
+	allTheLines = []
+	lvls = ['1','2','3','4','5']
+	with open('./allowed_skills.txt', 'r') as fd:
+		allTheLines = fd.readlines()
+	for line2 in allTheLines[1:]:
+		line = line2.replace('\n','').split(' ')
+		## Handle dynamic skill number indexing with cases for:
+		# single word skills
+		# multi-word skills with:
+		# single word groups
+		# multi-word groups
+		sNum = None
+		for idx in line:
+			if idx in lvls:
+				sNum = line.index(idx)
+		# ['Minmatar', 'Negotiation', '2', 'Social']
+		# ['Gallente', 'High', 'Speed', 'Maneuvering', '3', 'Navigation']
+		# ['Amarr', 'Amarr', 'Cruiser', '4', 'Spaceship', 'Command']
+		#print([x for x in line if x in lvls])
+		group = ' '.join(line[(sNum+1):])
+		race = line[0]
+		skill = ' '.join(line[1:sNum])
+		# we need to initialize the nested dictionaries
+		if group not in allTheSkills[race]:
+			allTheSkills[race][group] = {}
+		allTheSkills[line[0]][group][skill] = sNum
+	#print(allTheSkills)
+	print(allTheSkills['Gallente']['Missiles'])
+	print(allTheSkills['Minmatar']['Missiles'])
+	print(allTheSkills['Caldari']['Missiles'])
+	print(allTheSkills['Amarr']['Missiles'])
+	return allTheSkills
+
 
 ### eveapi.set_user_agent("eveapi.py/1.3")
 ## the set_user_agent function seems broken...
 
 
 def main(args):
+	parseAlpha()
+	exit()
 	api = eveapi.EVEAPIConnection()
 	auth = api.auth(keyID=YOUR_KEYID, vCode=YOUR_VCODE)
 	result2 = auth.account.Characters()
