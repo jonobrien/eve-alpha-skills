@@ -19,7 +19,7 @@ Amarr Drones 5 Drones
 Amarr Light Drone Operation 4 Drones
 Amarr Medium Drone Operation 3 Drones
 Amarr Repair Drone Operation 2 Drones
-Amarr Electronic Warfare 4 Electronic Systems
+Amarr Electronic Warfare 3 Electronic Systems
 Amarr Propulsion Jamming 3 Electronic Systems
 Amarr Weapon Disruption 3 Electronic Systems
 Amarr Advanced Weapon Upgrades 1 Engineering
@@ -101,6 +101,10 @@ Amarr Target Management 4 Targeting
 Amarr Broker Relations 2 Trade
 Amarr Marketing 2 Trade
 Amarr Trade 3 Trade
+Amarr Infomorph Psychology 1 Neural Enhancement
+Amarr Gas Cloud Harvesting 2 Resource Processing
+Caldari Infomorph Psychology 1 Neural Enhancement
+Caldari Gas Cloud Harvesting 2 Resource Processing
 Caldari Armor Layering 1 Armor
 Caldari EM Armor Compensation 1 Armor
 Caldari Explosive Armor Compensation 1 Armor
@@ -111,9 +115,9 @@ Caldari Remote Hull Repair Systems 1 Armor
 Caldari Repair Systems 4 Armor
 Caldari Thermal Armor Compensation 1 Armor
 Caldari Corporation Management 1 Corporation Management
-Caldari Drones 3 Drones
+Caldari Drones 5 Drones
 Caldari Light Drone Operation 1 Drones
-Caldari Electronic Warfare 4 Electronic Systems
+Caldari Electronic Warfare 3 Electronic Systems
 Caldari Propulsion Jamming 3 Electronic Systems
 Caldari Weapon Disruption 3 Electronic Systems
 Caldari Advanced Weapon Upgrades 1 Engineering
@@ -226,7 +230,7 @@ Gallente Drones 5 Drones
 Gallente Light Drone Operation 4 Drones
 Gallente Medium Drone Operation 3 Drones
 Gallente Repair Drone Operation 2 Drones
-Gallente Electronic Warfare 4 Electronic Systems
+Gallente Electronic Warfare 3 Electronic Systems
 Gallente Propulsion Jamming 3 Electronic Systems
 Gallente Weapon Disruption 3 Electronic Systems
 Gallente Sensor Linking 1 Electronic Systems
@@ -310,6 +314,8 @@ Gallente Target Management 4 Targeting
 Gallente Broker Relations 2 Trade
 Gallente Marketing 2 Trade
 Gallente Trade 3 Trade
+Gallente Gas Cloud Harvesting 2 Resource Processing
+Minmatar Gas Cloud Harvesting 2 Resource Processing
 Minmatar Armor Layering 1 Armor
 Minmatar EM Armor Compensation 1 Armor
 Minmatar Explosive Armor Compensation 1 Armor
@@ -320,9 +326,9 @@ Minmatar Remote Hull Repair Systems 1 Armor
 Minmatar Repair Systems 4 Armor
 Minmatar Thermal Armor Compensation 1 Armor
 Minmatar Corporation Management 1 Corporation Management
-Minmatar Drones 3 Drones
+Minmatar Drones 5 Drones
 Minmatar Light Drone Operation 1 Drones
-Minmatar Electronic Warfare 4 Electronic Systems
+Minmatar Electronic Warfare 3 Electronic Systems
 Minmatar Propulsion Jamming 3 Electronic Systems
 Minmatar Weapon Disruption 3 Electronic Systems
 Minmatar Target Painting 1 Electronic Systems
